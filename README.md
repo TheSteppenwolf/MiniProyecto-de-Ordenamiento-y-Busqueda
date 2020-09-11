@@ -18,10 +18,12 @@ El repositorio contiene un único archivo el cual contiene un programa realizado
   3. Indices de todas las apariciones de un elemento.
   4. Apariciones de un elemento.
   5. Las iteraciones de un elemento.
-- Al terminar las busquedas deseadas por el usuario, este, puede elegir entre ingresar un nuevo arreglo o no.
+- Al terminar las búsquedas deseadas por el usuario, este, puede elegir entre ingresar un nuevo arreglo o no.
 - Si desea ingresar un nuevo arreglo, el usuario tiene la opción de limpiar la pantalla de la consola para una lectura más sencillas de los resultados.
 - Si el usuario no desea ingresar un nuevo arreglo, el programa llega a su fin.
 
-El programa unicamente esta implementado en el uso de arreglos.
+El programa unicamente está implementado en el uso de arreglos.
 ## Licencia y uso
-El programa es corto y sencillo, unicamente tiene la finalidad de familiarizarse con el uso de algoritmos de búsqueda y ordenamiento en diferentes situaciones que se pueden dar en el vida diaria, por lo tanto, es de libre uso!
+El programa es corto y sencillo puesto que unicamente tiene la finalidad de familiarizarse con el uso de algoritmos de búsqueda y ordenamiento en diferentes situaciones que se pueden dar en la vida diaria, por lo tanto, es de libre uso!
+
+Si descubren algún error, recomendación o solo tienen alguna duda con respecto al programa me encantaría escucharla! Se pueden comunicar conmigo a través de mi LinkedIn:[aquí!](www.linkedin.com/in/sebtam17) 
