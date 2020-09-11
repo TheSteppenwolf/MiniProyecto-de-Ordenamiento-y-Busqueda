@@ -1,4 +1,10 @@
-﻿using System;
+/*
+    Programa realizado por: Sebastián Felipe Tamayo Proaño
+    Algoritmos usados:
+        Búsqueda: Algoritmo de búsqueda dicotómica.
+        Ordenamiento: Algoritmo de Shell.
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
