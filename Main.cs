@@ -35,7 +35,7 @@ namespace Practica01_Ejercicio01
                         arr = new int[text.Length];
                         for (int i = 0; i < text.Length; i++) arr[i] = Int32.Parse(text[i]);
                     }
-                    // Valida que el ingreso de los datos del arreglos sean enteros.
+                    // Valida que el ingreso de los datos del arreglo sean números enteros.
                     catch (System.FormatException)
                     {
                         Console.WriteLine("\nError: Los valores ingresados no son númericos!\n");
@@ -57,7 +57,7 @@ namespace Practica01_Ejercicio01
                 Console.Write("Su arreglo ordenado: ");
                 foreach (var iter in arr) Console.Write($"{iter} "); Console.WriteLine();
 
-                // Area de búsqueda en el arreglo.                
+                // Área de búsqueda en el arreglo.                
                 while(op1 != "6")
                 {
                     op1 = "-";
@@ -100,7 +100,8 @@ namespace Practica01_Ejercicio01
                             else Console.WriteLine($"El elemento {temp} no existe.");
                             resArray = null;
                             break;
-
+                        
+                        // Realiza la búsqueda de todas las apariciones de un elemento.
                         case ("4"):
                             temp = GetBusqueda();
                             res = GetApariciones(arr, temp);
@@ -120,7 +121,7 @@ namespace Practica01_Ejercicio01
                         case ("6"):                            
                             break;
 
-                        // Validación de ingreso erroneo de datos.
+                        // Validación del ingreso erróneo de datos.
                         default:
                             Console.WriteLine("Error: Opcion seleccionada no disponible!");
                             break;
