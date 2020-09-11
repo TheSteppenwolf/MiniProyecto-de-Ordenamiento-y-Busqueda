@@ -26,4 +26,4 @@ El programa unicamente está implementado en el uso de arreglos.
 ## Licencia y uso
 El programa es corto y sencillo puesto que unicamente tiene la finalidad de familiarizarse con el uso de algoritmos de búsqueda y ordenamiento en diferentes situaciones que se pueden dar en la vida diaria, por lo tanto, es de libre uso!
 
-Si descubren algún error, recomendación o solo tienen alguna duda con respecto al programa me encantaría escucharla! Se pueden comunicar conmigo a través de mi LinkedIn:[aquí!](www.linkedin.com/in/sebtam17) 
+Si descubren algún error, recomendación o solo tienen alguna duda con respecto al programa me encantaría escucharla! Se pueden comunicar conmigo a través de mi LinkedIn [aquí!](www.linkedin.com/in/sebtam17) 
